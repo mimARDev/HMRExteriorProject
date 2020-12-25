@@ -5,19 +5,19 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
 			"Name": "DatasmithImporter",
 			"Enabled": true
 		},
 		{
-			"Name": "HDRIBackdrop",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
 			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
 	]
